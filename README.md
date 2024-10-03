@@ -1,5 +1,4 @@
 # exploring_github
 
-this is to incite a conflict
-
+this is a change made in branch
 
